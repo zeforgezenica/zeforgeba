@@ -23,3 +23,8 @@ footer {
     bottom: 0;
     height: 2.5rem;
 }
+
+.wpforms-contact-form {
+    width: 100% !important;
+    margin: 0 10px !important;
+}
