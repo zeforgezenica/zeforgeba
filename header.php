@@ -26,10 +26,10 @@
             <a class="nav-link" id="hammerit" href="/hammerit">HammerIT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" id="meetups" href="/meetups">Meetups</a>
+            <a class="nav-link" id="meetupi" href="/meetupi">Meetupi</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" id="contact" href="/contact">Contact</a>
+            <a class="nav-link" id="kontakt" href="/kontakt">Kontakt</a>
           </li>
         </ul>
       </div>

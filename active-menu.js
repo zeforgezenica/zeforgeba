@@ -1,8 +1,8 @@
 let menu_items = [
     '/',
     '/hammerit',
-    '/meetups',
-    '/contact'
+    '/meetupi',
+    '/kontakt'
 ];
 
 let active_menu_item_class = 'active';
