@@ -9,7 +9,8 @@ Tested upto: 6.0
 html, body {
     background-color: black;
     color: white;
-    height: 100vh;
+    position: relative;
+    min-height: 100vh;
 }
 
 a {
@@ -19,7 +20,6 @@ a {
 
 footer {
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
+    height: 2.5rem;
 }
-
-
