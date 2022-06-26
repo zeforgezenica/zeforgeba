@@ -1,8 +1,25 @@
 /*
 Theme Name: zeforge
-Author: Amar Cerim
+Author: ZeForge Developers Community
 Author URI: zeforge.ba
 Description: ZeForge Developers Community Website
 Version: 1.0
 Tested upto: 6.0
 */
+html, body {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+}
+
+
