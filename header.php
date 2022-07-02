@@ -26,7 +26,7 @@
             <a class="nav-link" id="hammerit" href="/hammerit">HammerIT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" id="meetupi" href="/meetupi">Meetupi</a>
+            <a class="nav-link" id="meetupi" href="/meetupi">Meetups</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" id="kontakt" href="/kontakt">Kontakt</a>
