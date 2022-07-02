@@ -6,11 +6,18 @@ Description: ZeForge Developers Community Website
 Version: 1.0
 Tested upto: 6.0
 */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./assets/fonts/Montserrat-Regular.ttf');
+}
+
 html, body {
     background-color: black;
     color: white;
     position: relative;
     min-height: 100vh;
+    font-family: 'Montserrat';
 }
 
 a {
